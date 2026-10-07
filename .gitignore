@@ -1,0 +1,11 @@
+*pretest
+*~
+*.pyc
+*.pt
+*.pkl
+.idea/
+out/
+.vscode
+*.npy
+*.csv
+*.txt

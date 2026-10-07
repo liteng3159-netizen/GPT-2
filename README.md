@@ -148,5 +148,4 @@ GPT-2/
 ## References
 
 - OpenAI GPT-2
-- Stanford CS224N
 - Hugging Face Transformers
